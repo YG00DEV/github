@@ -1,0 +1,9 @@
+git status 
+
+git add .
+
+git commit -m "your commit"
+
+git push origin master
+
+git clone <url>
